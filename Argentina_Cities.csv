@@ -1,29 +1,29 @@
-"2022","city","country","latitude","longitude","fill"
-13076300,"Buenos Aires","Argentina",-34.6132,-58.3772,"#5e4fa2"
-1428214,"Cordoba","Argentina",-31.4135,-64.1811,"#fee08b"
-1173533,"Rosario","Argentina",-32.9468,-60.6393,"#fee08b"
-876884,"Mendoza","Argentina",-32.8908,-68.8272,"#fdae61"
-781023,"San Miguel de Tucuman","Argentina",-26.8241,-65.2226,"#fdae61"
-694167,"La Plata","Argentina",-34.9215,-57.9545,"#f46d43"
-553935,"Mar del Plata","Argentina",-38.0004,-57.5562,"#f46d43"
-512686,"Salta","Argentina",-24.7859,-65.4117,"#f46d43"
-489505,"Santa Fe","Argentina",-31.6488,-60.7087,"#d53e4f"
-447048,"San Juan","Argentina",-31.5375,-68.5364,"#d53e4f"
-387158,"Resistencia","Argentina",-27.4606,-58.9839,"#d53e4f"
-354692,"Santiago del Estero","Argentina",-27.7951,-64.2615,"#d53e4f"
-339067,"Corrientes","Argentina",-27.4678,-58.8344,"#d53e4f"
-323739,"Posadas","Argentina",-27.3671,-55.8961,"#d53e4f"
-319934,"Moron","Argentina",-34.6509,-58.6196,"#d53e4f"
-305891,"San Salvador de Jujuy","Argentina",-24.1946,-65.2971,"#d53e4f"
-276546,"Bahia Blanca","Argentina",-38.7196,-62.2724,"#d53e4f"
-262295,"Parana","Argentina",-31.7327,-60.529,"#d53e4f"
-244168,"Merlo","Argentina",-34.6663,-58.7293,"#9e0142"
-242092,"Neuquen","Argentina",-38.9516,-68.0591,"#9e0142"
-230208,"Jose C. Paz","Argentina",-34.5154,-58.7681,"#9e0142"
-230000,"Quilmes","Argentina",-34.729,-58.2637,"#9e0142"
-226517,"Pilar","Argentina",-34.4587,-58.9142,"#9e0142"
-221383,"Formosa","Argentina",-26.1849,-58.1731,"#9e0142"
-188812,"San Fernando del Valle de Catamarca","Argentina",-28.4696,-65.7852,"#9e0142"
+"2022","city","country","latitude","longitude"
+13076300,"Buenos Aires","Argentina",-34.6132,-58.3772
+1428214,"Cordoba","Argentina",-31.4135,-64.1811
+1173533,"Rosario","Argentina",-32.9468,-60.6393
+876884,"Mendoza","Argentina",-32.8908,-68.8272
+781023,"San Miguel de Tucuman","Argentina",-26.8241,-65.2226
+694167,"La Plata","Argentina",-34.9215,-57.9545
+553935,"Mar del Plata","Argentina",-38.0004,-57.5562
+512686,"Salta","Argentina",-24.7859,-65.4117
+489505,"Santa Fe","Argentina",-31.6488,-60.7087
+447048,"San Juan","Argentina",-31.5375,-68.5364
+387158,"Resistencia","Argentina",-27.4606,-58.9839
+354692,"Santiago del Estero","Argentina",-27.7951,-64.2615
+339067,"Corrientes","Argentina",-27.4678,-58.8344
+323739,"Posadas","Argentina",-27.3671,-55.8961
+319934,"Moron","Argentina",-34.6509,-58.6196
+305891,"San Salvador de Jujuy","Argentina",-24.1946,-65.2971
+276546,"Bahia Blanca","Argentina",-38.7196,-62.2724
+262295,"Parana","Argentina",-31.7327,-60.529
+244168,"Merlo","Argentina",-34.6663,-58.7293
+242092,"Neuquen","Argentina",-38.9516,-68.0591
+230208,"Jose C. Paz","Argentina",-34.5154,-58.7681
+230000,"Quilmes","Argentina",-34.729,-58.2637
+226517,"Pilar","Argentina",-34.4587,-58.9142
+221383,"Formosa","Argentina",-26.1849,-58.1731
+188812,"San Fernando del Valle de Catamarca","Argentina",-28.4696,-65.7852
 183982,"San Luis","Argentina",-33.295,-66.3356
 167498,"Berazategui","Argentina",-34.7653,-58.2128
 162620,"La Rioja","Argentina",-29.4111,-66.8507
