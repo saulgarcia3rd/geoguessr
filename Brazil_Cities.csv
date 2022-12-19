@@ -1,29 +1,29 @@
-"2022","city","country","latitude","longitude","fill"
-10021295,"Sao Paulo","Brazil",-23.5475,-46.6361,"#3288bd"
-6023699,"Rio de Janeiro","Brazil",-22.9064,-43.1822,"#e6f598"
-2711840,"Salvador","Brazil",-12.9711,-38.5108,"#ffffbf"
-2400000,"Fortaleza","Brazil",-3.71722,-38.5431,"#fee08b"
-2373224,"Belo Horizonte","Brazil",-19.9208,-43.9378,"#fee08b"
-2207718,"Brasilia","Brazil",-15.7797,-47.9297,"#fee08b"
-1718421,"Curitiba","Brazil",-25.4278,-49.2731,"#fee08b"
-1598210,"Manaus","Brazil",-3.10194,-60.025,"#fee08b"
-1478098,"Recife","Brazil",-8.05389,-34.8811,"#fee08b"
-1407737,"Belem","Brazil",-1.45583,-48.5044,"#fee08b"
-1372741,"Porto Alegre","Brazil",-30.0328,-51.2302,"#fee08b"
-1171195,"Goiania","Brazil",-16.6786,-49.2539,"#fee08b"
-1169577,"Guarulhos","Brazil",-23.4628,-46.5333,"#fee08b"
-1031554,"Campinas","Brazil",-22.9056,-47.0608,"#fee08b"
-1002118,"Nova Iguacu","Brazil",-22.7592,-43.4511,"#fee08b"
-954991,"Maceio","Brazil",-9.66583,-35.7353,"#fdae61"
-917237,"Sao Luis","Brazil",-2.52972,-44.3028,"#fdae61"
-818329,"Duque de Caxias","Brazil",-22.7856,-43.3117,"#fdae61"
-763043,"Natal","Brazil",-5.795,-35.2094,"#fdae61"
-744512,"Teresina","Brazil",-5.08917,-42.8019,"#f46d43"
-743372,"Sao Bernardo do Campo","Brazil",-23.6939,-46.565,"#f46d43"
-729151,"Campo Grande","Brazil",-20.4428,-54.6464,"#f46d43"
-702621,"Jaboatao","Brazil",-8.18028,-35.0014,"#f46d43"
-677856,"Osasco","Brazil",-23.5325,-46.7917,"#f46d43"
-662373,"Santo Andre","Brazil",-23.6639,-46.5383,"#f46d43"
+"2022","city","country","latitude","longitude"
+10021295,"Sao Paulo","Brazil",-23.5475,-46.6361
+6023699,"Rio de Janeiro","Brazil",-22.9064,-43.1822
+2711840,"Salvador","Brazil",-12.9711,-38.5108
+2400000,"Fortaleza","Brazil",-3.71722,-38.5431
+2373224,"Belo Horizonte","Brazil",-19.9208,-43.9378
+2207718,"Brasilia","Brazil",-15.7797,-47.9297
+1718421,"Curitiba","Brazil",-25.4278,-49.2731
+1598210,"Manaus","Brazil",-3.10194,-60.025
+1478098,"Recife","Brazil",-8.05389,-34.8811
+1407737,"Belem","Brazil",-1.45583,-48.5044
+1372741,"Porto Alegre","Brazil",-30.0328,-51.2302
+1171195,"Goiania","Brazil",-16.6786,-49.2539
+1169577,"Guarulhos","Brazil",-23.4628,-46.5333
+1031554,"Campinas","Brazil",-22.9056,-47.0608
+1002118,"Nova Iguacu","Brazil",-22.7592,-43.4511
+954991,"Maceio","Brazil",-9.66583,-35.7353
+917237,"Sao Luis","Brazil",-2.52972,-44.3028
+818329,"Duque de Caxias","Brazil",-22.7856,-43.3117
+763043,"Natal","Brazil",-5.795,-35.2094
+744512,"Teresina","Brazil",-5.08917,-42.8019
+743372,"Sao Bernardo do Campo","Brazil",-23.6939,-46.565
+729151,"Campo Grande","Brazil",-20.4428,-54.6464
+702621,"Jaboatao","Brazil",-8.18028,-35.0014
+677856,"Osasco","Brazil",-23.5325,-46.7917
+662373,"Santo Andre","Brazil",-23.6639,-46.5383
 650883,"Joao Pessoa","Brazil",-7.115,-34.8631
 630008,"Jaboatao dos Guararapes","Brazil",-8.11278,-35.0147
 627123,"Contagem","Brazil",-19.9317,-44.0536
